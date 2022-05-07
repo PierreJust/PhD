@@ -1,0 +1,17 @@
+Site,Pop,Outgroup,f3,std.err,Zscore,snps,ord,Exc,Loc
+PJ050,France_Occitanie_IA,Mbuti.SDG,0.041622,0.001061,39.216,273717,1,,High/Late Middle Age
+PJ050,Denmark_IA,Mbuti.SDG,0.040733,0.001117,36.480,268937,2,,High/Late Middle Age
+PJ050,England_EastYorkshire_MIA,Mbuti.SDG,0.034878,0.000985,35.425,285687,3,,High/Late Middle Age
+PJ050,England_EastYorkshire_LIA,Mbuti.SDG,0.034620,0.000990,34.978,275791,4,,High/Late Middle Age
+PJ050,Spain_IA,Mbuti.SDG,0.033958,0.000849,40.011,342196,5,,High/Late Middle Age
+PJ050,England_EastYorkshire_MIA_LIA,Mbuti.SDG,0.033503,0.000766,43.752,346789,6,,High/Late Middle Age
+PJ050,England_LIA,Mbuti.SDG,0.027511,0.000807,34.108,330088,7,,High/Late Middle Age
+PJ050,England_MIA,Mbuti.SDG,0.025443,0.000708,35.947,375025,8,,High/Late Middle Age
+PJ050,England_MIA_LIA,Mbuti.SDG,0.022554,0.000719,31.379,355757,9,,High/Late Middle Age
+PJ050,France_SouthEast_IA2,Mbuti.SDG,0.022166,0.000968,22.908,275162,10,,High/Late Middle Age
+PJ050,France_GrandEst_IA2,Mbuti.SDG,0.021196,0.000862,24.601,307391,11,,High/Late Middle Age
+PJ050,Scotland_EIA,Mbuti.SDG,0.014012,0.001280,10.950,200731,12,,High/Late Middle Age
+PJ050,Scotland_MIA,Mbuti.SDG,0.013976,0.001167,11.972,239260,13,,High/Late Middle Age
+PJ050,Spain_LIA,Mbuti.SDG,0.013915,0.001032,13.483,261639,14,,High/Late Middle Age
+PJ050,Scotland_MIA_LIA,Mbuti.SDG,0.012504,0.000981,12.741,262047,15,,High/Late Middle Age
+PJ050,Scotland_LIA,Mbuti.SDG,0.012284,0.000830,14.795,309805,16,,High/Late Middle Age

@@ -1,0 +1,17 @@
+Site,Pop,Outgroup,f3,std.err,Zscore,snps,ord,Exc,Loc
+PJ002,France_Occitanie_IA,Mbuti.SDG,0.038933,0.001093,35.630,274523,1,,protoMerovingian
+PJ002,Denmark_IA,Mbuti.SDG,0.038820,0.001182,32.848,269067,2,,protoMerovingian
+PJ002,England_EastYorkshire_MIA,Mbuti.SDG,0.033969,0.000969,35.056,286745,3,,protoMerovingian
+PJ002,Spain_IA,Mbuti.SDG,0.033864,0.000878,38.557,343291,4,,protoMerovingian
+PJ002,England_EastYorkshire_LIA,Mbuti.SDG,0.032589,0.001014,32.127,276588,5,,protoMerovingian
+PJ002,England_EastYorkshire_MIA_LIA,Mbuti.SDG,0.032547,0.000767,42.448,348998,6,,protoMerovingian
+PJ002,England_LIA,Mbuti.SDG,0.026634,0.000790,33.719,331622,7,,protoMerovingian
+PJ002,England_MIA,Mbuti.SDG,0.024141,0.000683,35.324,377042,8,,protoMerovingian
+PJ002,England_MIA_LIA,Mbuti.SDG,0.021034,0.000693,30.361,357938,9,,protoMerovingian
+PJ002,France_SouthEast_IA2,Mbuti.SDG,0.020513,0.000953,21.535,276706,10,,protoMerovingian
+PJ002,France_GrandEst_IA2,Mbuti.SDG,0.020432,0.000826,24.742,309348,11,,protoMerovingian
+PJ002,Scotland_LIA,Mbuti.SDG,0.011996,0.000791,15.157,310874,12,,protoMerovingian
+PJ002,Scotland_MIA_LIA,Mbuti.SDG,0.011648,0.000965,12.065,261520,13,,protoMerovingian
+PJ002,Spain_LIA,Mbuti.SDG,0.011226,0.001004,11.183,262965,14,,protoMerovingian
+PJ002,Scotland_EIA,Mbuti.SDG,0.010701,0.001263,8.472,201138,15,,protoMerovingian
+PJ002,Scotland_MIA,Mbuti.SDG,0.009672,0.001113,8.691,238231,16,,protoMerovingian
